@@ -1,0 +1,84 @@
+Timestamp,ApplicationTeam,LogLevel,Message
+2025-05-13 05:29:23,TeamI,INFO,Heartbeat received
+2025-05-12 12:57:52,TeamI,WARNING,Configuration mismatch found
+2025-05-12 17:22:05,TeamI,INFO,Service is running
+2025-05-13 02:33:03,TeamI,WARNING,Disk space nearing limit
+2025-05-12 09:47:15,TeamI,WARNING,High memory usage detected
+2025-05-12 17:54:03,TeamI,ERROR,Authentication failed
+2025-05-13 04:32:32,TeamI,ERROR,Unhandled exception occurred
+2025-05-12 22:52:38,TeamI,WARNING,Disk space nearing limit
+2025-05-12 18:04:40,TeamI,INFO,User login succeeded
+2025-05-12 21:24:19,TeamI,ERROR,Service unavailable
+2025-05-12 20:08:51,TeamI,WARNING,Disk space nearing limit
+2025-05-12 11:12:08,TeamI,INFO,Scheduled job completed
+2025-05-12 08:20:10,TeamI,ERROR,Unhandled exception occurred
+2025-05-12 15:43:32,TeamI,ERROR,Unhandled exception occurred
+2025-05-12 09:34:03,TeamI,INFO,User login succeeded
+2025-05-12 22:42:31,TeamI,WARNING,High memory usage detected
+2025-05-12 13:03:09,TeamI,ERROR,Unhandled exception occurred
+2025-05-12 15:15:16,TeamI,INFO,Scheduled job completed
+2025-05-12 22:19:14,TeamI,INFO,Scheduled job completed
+2025-05-13 06:53:15,TeamI,WARNING,Disk space nearing limit
+2025-05-12 14:56:51,TeamI,WARNING,Response time above threshold
+2025-05-12 23:46:16,TeamI,INFO,Scheduled job completed
+2025-05-12 20:28:11,TeamI,INFO,Heartbeat received
+2025-05-13 04:59:27,TeamI,INFO,Heartbeat received
+2025-05-13 03:18:24,TeamI,WARNING,Response time above threshold
+2025-05-13 07:05:30,TeamI,INFO,Scheduled job completed
+2025-05-12 21:13:57,TeamI,INFO,Application started successfully
+2025-05-13 06:25:46,TeamI,INFO,Heartbeat received
+2025-05-13 03:59:01,TeamI,ERROR,Service unavailable
+2025-05-13 00:38:12,TeamI,ERROR,Database connection failed
+2025-05-13 07:51:34,TeamI,WARNING,Retrying failed operation
+2025-05-12 11:31:11,TeamI,INFO,Application started successfully
+2025-05-12 19:47:20,TeamI,WARNING,Disk space nearing limit
+2025-05-12 16:41:44,TeamI,ERROR,Timeout while calling external API
+2025-05-12 17:42:12,TeamI,WARNING,High memory usage detected
+2025-05-12 22:55:31,TeamI,WARNING,Disk space nearing limit
+2025-05-13 00:40:10,TeamI,INFO,User login succeeded
+2025-05-12 21:15:34,TeamI,WARNING,Response time above threshold
+2025-05-12 17:52:34,TeamI,WARNING,Response time above threshold
+2025-05-12 15:24:47,TeamI,ERROR,Database connection failed
+2025-05-13 05:13:16,TeamI,WARNING,Disk space nearing limit
+2025-05-12 18:12:54,TeamI,ERROR,Authentication failed
+2025-05-13 01:24:15,TeamI,INFO,User login succeeded
+2025-05-13 06:49:36,TeamI,INFO,Scheduled job completed
+2025-05-12 08:38:03,TeamI,ERROR,Service unavailable
+2025-05-12 13:34:45,TeamI,WARNING,Response time above threshold
+2025-05-12 10:44:39,TeamI,INFO,Service is running
+2025-05-12 15:45:10,TeamI,WARNING,High memory usage detected
+2025-05-13 04:14:42,TeamI,WARNING,Configuration mismatch found
+2025-05-12 18:46:01,TeamI,WARNING,Retrying failed operation
+2025-05-13 06:24:34,TeamI,INFO,Service is running
+2025-05-12 11:21:12,TeamI,WARNING,Configuration mismatch found
+2025-05-12 18:06:10,TeamI,INFO,User login succeeded
+2025-05-12 23:26:41,TeamI,ERROR,Unhandled exception occurred
+2025-05-12 13:51:39,TeamI,INFO,Service is running
+2025-05-13 07:49:57,TeamI,ERROR,Database connection failed
+2025-05-12 11:44:10,TeamI,ERROR,Timeout while calling external API
+2025-05-12 17:23:33,TeamI,WARNING,Retrying failed operation
+2025-05-12 16:28:59,TeamI,ERROR,Unhandled exception occurred
+2025-05-12 22:38:38,TeamI,WARNING,Response time above threshold
+2025-05-13 05:59:20,TeamI,ERROR,Timeout while calling external API
+2025-05-12 19:16:31,TeamI,INFO,Service is running
+2025-05-13 01:07:21,TeamI,WARNING,High memory usage detected
+2025-05-13 04:38:49,TeamI,ERROR,Unhandled exception occurred
+2025-05-13 06:17:28,TeamI,WARNING,Disk space nearing limit
+2025-05-12 15:53:03,TeamI,ERROR,Unhandled exception occurred
+2025-05-13 04:23:25,TeamI,INFO,Application started successfully
+2025-05-12 23:44:24,TeamI,WARNING,Disk space nearing limit
+2025-05-12 16:47:25,TeamI,INFO,Service is running
+2025-05-13 00:02:25,TeamI,ERROR,Database connection failed
+2025-05-12 21:55:28,TeamI,ERROR,Service unavailable
+2025-05-12 09:59:44,TeamI,ERROR,Service unavailable
+2025-05-12 15:45:10,TeamI,ERROR,Timeout while calling external API
+2025-05-13 03:56:43,TeamI,INFO,Heartbeat received
+2025-05-12 16:41:58,TeamI,INFO,Service is running
+2025-05-13 01:02:48,TeamI,ERROR,Unhandled exception occurred
+2025-05-12 11:13:19,TeamI,WARNING,Retrying failed operation
+2025-05-12 16:05:01,TeamI,INFO,User login succeeded
+2025-05-12 16:05:19,TeamI,WARNING,Disk space nearing limit
+2025-05-13 03:52:25,TeamI,INFO,Service is running
+2025-05-12 18:46:59,TeamI,ERROR,Database connection failed
+2025-05-13 04:58:19,TeamI,INFO,Application started successfully
+2025-05-12 08:17:35,TeamI,ERROR,Unhandled exception occurred

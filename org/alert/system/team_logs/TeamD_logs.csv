@@ -1,0 +1,115 @@
+Timestamp,ApplicationTeam,LogLevel,Message
+2025-05-12 18:51:07,TeamD,ERROR,Timeout while calling external API
+2025-05-12 23:45:03,TeamD,ERROR,Unhandled exception occurred
+2025-05-12 20:02:27,TeamD,INFO,User login succeeded
+2025-05-12 08:28:38,TeamD,ERROR,Timeout while calling external API
+2025-05-12 21:53:38,TeamD,INFO,Heartbeat received
+2025-05-12 10:52:49,TeamD,INFO,Heartbeat received
+2025-05-12 13:40:31,TeamD,INFO,Application started successfully
+2025-05-13 00:24:19,TeamD,INFO,Application started successfully
+2025-05-12 19:44:16,TeamD,INFO,Heartbeat received
+2025-05-13 06:31:13,TeamD,ERROR,Service unavailable
+2025-05-13 06:28:37,TeamD,ERROR,Service unavailable
+2025-05-12 17:15:55,TeamD,ERROR,Database connection failed
+2025-05-12 09:29:00,TeamD,ERROR,Timeout while calling external API
+2025-05-12 13:20:13,TeamD,INFO,Scheduled job completed
+2025-05-13 01:41:41,TeamD,WARNING,Response time above threshold
+2025-05-12 08:05:05,TeamD,WARNING,Disk space nearing limit
+2025-05-12 23:38:39,TeamD,ERROR,Timeout while calling external API
+2025-05-12 17:51:08,TeamD,WARNING,Retrying failed operation
+2025-05-13 04:43:34,TeamD,ERROR,Authentication failed
+2025-05-12 16:53:47,TeamD,INFO,User login succeeded
+2025-05-13 02:47:48,TeamD,INFO,Scheduled job completed
+2025-05-12 15:26:42,TeamD,INFO,User login succeeded
+2025-05-13 03:23:53,TeamD,INFO,Application started successfully
+2025-05-13 04:05:52,TeamD,INFO,Heartbeat received
+2025-05-13 02:27:28,TeamD,ERROR,Database connection failed
+2025-05-12 10:48:12,TeamD,INFO,Service is running
+2025-05-13 04:41:02,TeamD,WARNING,High memory usage detected
+2025-05-13 05:18:59,TeamD,INFO,User login succeeded
+2025-05-13 07:13:00,TeamD,INFO,Heartbeat received
+2025-05-13 07:06:49,TeamD,ERROR,Database connection failed
+2025-05-12 16:50:48,TeamD,WARNING,Disk space nearing limit
+2025-05-13 01:06:51,TeamD,WARNING,Retrying failed operation
+2025-05-12 19:48:51,TeamD,INFO,User login succeeded
+2025-05-13 07:32:47,TeamD,WARNING,Configuration mismatch found
+2025-05-13 01:45:40,TeamD,ERROR,Timeout while calling external API
+2025-05-12 18:18:40,TeamD,ERROR,Unhandled exception occurred
+2025-05-12 18:16:18,TeamD,ERROR,Timeout while calling external API
+2025-05-12 09:47:00,TeamD,WARNING,High memory usage detected
+2025-05-12 23:59:21,TeamD,ERROR,Service unavailable
+2025-05-12 09:04:12,TeamD,INFO,Scheduled job completed
+2025-05-13 02:44:49,TeamD,WARNING,Response time above threshold
+2025-05-13 00:16:38,TeamD,ERROR,Timeout while calling external API
+2025-05-12 13:39:48,TeamD,INFO,Application started successfully
+2025-05-12 18:03:12,TeamD,WARNING,Response time above threshold
+2025-05-12 17:15:26,TeamD,INFO,Scheduled job completed
+2025-05-12 20:31:29,TeamD,WARNING,Retrying failed operation
+2025-05-12 15:21:00,TeamD,INFO,Scheduled job completed
+2025-05-12 18:37:59,TeamD,INFO,Scheduled job completed
+2025-05-13 03:59:39,TeamD,WARNING,Configuration mismatch found
+2025-05-13 02:54:44,TeamD,INFO,Service is running
+2025-05-12 18:32:27,TeamD,WARNING,Disk space nearing limit
+2025-05-12 11:25:39,TeamD,INFO,Scheduled job completed
+2025-05-12 15:40:40,TeamD,ERROR,Authentication failed
+2025-05-12 22:14:47,TeamD,ERROR,Database connection failed
+2025-05-12 09:30:03,TeamD,WARNING,Configuration mismatch found
+2025-05-13 06:21:12,TeamD,WARNING,High memory usage detected
+2025-05-12 17:19:35,TeamD,ERROR,Unhandled exception occurred
+2025-05-12 13:51:31,TeamD,INFO,Application started successfully
+2025-05-12 22:51:27,TeamD,INFO,Scheduled job completed
+2025-05-12 16:23:08,TeamD,INFO,Heartbeat received
+2025-05-13 06:49:33,TeamD,WARNING,Configuration mismatch found
+2025-05-12 08:47:22,TeamD,WARNING,Disk space nearing limit
+2025-05-12 17:36:02,TeamD,ERROR,Authentication failed
+2025-05-13 06:06:50,TeamD,WARNING,Configuration mismatch found
+2025-05-12 10:57:00,TeamD,INFO,Scheduled job completed
+2025-05-12 17:00:06,TeamD,WARNING,Retrying failed operation
+2025-05-12 22:17:39,TeamD,ERROR,Authentication failed
+2025-05-13 06:47:29,TeamD,INFO,User login succeeded
+2025-05-12 23:55:00,TeamD,WARNING,Disk space nearing limit
+2025-05-13 02:24:55,TeamD,ERROR,Authentication failed
+2025-05-13 02:15:05,TeamD,WARNING,Configuration mismatch found
+2025-05-12 21:04:33,TeamD,ERROR,Database connection failed
+2025-05-12 13:33:08,TeamD,WARNING,Response time above threshold
+2025-05-13 01:23:47,TeamD,INFO,Heartbeat received
+2025-05-13 01:30:59,TeamD,ERROR,Database connection failed
+2025-05-12 20:44:06,TeamD,ERROR,Service unavailable
+2025-05-12 17:44:14,TeamD,INFO,Service is running
+2025-05-12 22:22:33,TeamD,WARNING,Response time above threshold
+2025-05-12 16:37:48,TeamD,INFO,Service is running
+2025-05-12 08:18:10,TeamD,WARNING,Configuration mismatch found
+2025-05-13 00:55:56,TeamD,ERROR,Service unavailable
+2025-05-12 10:14:04,TeamD,ERROR,Unhandled exception occurred
+2025-05-12 12:35:40,TeamD,INFO,Heartbeat received
+2025-05-13 06:14:44,TeamD,INFO,Service is running
+2025-05-13 00:11:41,TeamD,INFO,Heartbeat received
+2025-05-13 01:41:00,TeamD,WARNING,Configuration mismatch found
+2025-05-12 17:23:29,TeamD,INFO,Application started successfully
+2025-05-12 20:23:44,TeamD,INFO,User login succeeded
+2025-05-12 20:43:01,TeamD,ERROR,Unhandled exception occurred
+2025-05-12 11:52:00,TeamD,INFO,User login succeeded
+2025-05-12 08:30:06,TeamD,WARNING,Disk space nearing limit
+2025-05-12 16:57:54,TeamD,ERROR,Timeout while calling external API
+2025-05-12 09:08:27,TeamD,ERROR,Database connection failed
+2025-05-13 05:06:22,TeamD,ERROR,Timeout while calling external API
+2025-05-12 21:05:24,TeamD,INFO,Scheduled job completed
+2025-05-12 09:37:39,TeamD,INFO,Service is running
+2025-05-13 04:45:25,TeamD,INFO,Application started successfully
+2025-05-12 09:47:41,TeamD,INFO,Scheduled job completed
+2025-05-12 16:44:05,TeamD,ERROR,Timeout while calling external API
+2025-05-13 06:34:52,TeamD,WARNING,Response time above threshold
+2025-05-13 06:13:23,TeamD,ERROR,Service unavailable
+2025-05-13 06:32:19,TeamD,ERROR,Unhandled exception occurred
+2025-05-12 15:19:44,TeamD,INFO,Heartbeat received
+2025-05-13 07:54:39,TeamD,INFO,User login succeeded
+2025-05-12 17:37:43,TeamD,ERROR,Timeout while calling external API
+2025-05-13 02:54:24,TeamD,INFO,Heartbeat received
+2025-05-12 10:09:25,TeamD,INFO,Service is running
+2025-05-12 08:54:53,TeamD,WARNING,High memory usage detected
+2025-05-13 00:13:31,TeamD,INFO,Heartbeat received
+2025-05-13 02:29:35,TeamD,INFO,Heartbeat received
+2025-05-12 11:08:38,TeamD,ERROR,Timeout while calling external API
+2025-05-12 16:55:34,TeamD,INFO,User login succeeded
+2025-05-12 14:23:47,TeamD,WARNING,Disk space nearing limit
+2025-05-12 09:51:30,TeamD,ERROR,Service unavailable

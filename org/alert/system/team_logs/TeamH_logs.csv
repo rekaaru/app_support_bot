@@ -1,0 +1,107 @@
+Timestamp,ApplicationTeam,LogLevel,Message
+2025-05-12 14:18:11,TeamH,INFO,User login succeeded
+2025-05-12 14:38:37,TeamH,INFO,Service is running
+2025-05-12 09:31:38,TeamH,INFO,Service is running
+2025-05-13 03:52:36,TeamH,INFO,Service is running
+2025-05-13 06:24:49,TeamH,INFO,Application started successfully
+2025-05-12 21:38:19,TeamH,ERROR,Timeout while calling external API
+2025-05-13 05:24:07,TeamH,ERROR,Authentication failed
+2025-05-13 00:25:39,TeamH,WARNING,Response time above threshold
+2025-05-13 05:25:11,TeamH,WARNING,Configuration mismatch found
+2025-05-12 20:26:29,TeamH,ERROR,Authentication failed
+2025-05-12 18:54:55,TeamH,INFO,Heartbeat received
+2025-05-12 20:46:53,TeamH,WARNING,High memory usage detected
+2025-05-12 12:02:43,TeamH,ERROR,Unhandled exception occurred
+2025-05-13 00:09:51,TeamH,ERROR,Service unavailable
+2025-05-13 00:57:01,TeamH,INFO,Scheduled job completed
+2025-05-12 21:59:57,TeamH,WARNING,Response time above threshold
+2025-05-12 11:28:16,TeamH,INFO,Scheduled job completed
+2025-05-12 18:07:18,TeamH,WARNING,Configuration mismatch found
+2025-05-12 11:49:28,TeamH,INFO,Heartbeat received
+2025-05-12 16:51:21,TeamH,WARNING,High memory usage detected
+2025-05-13 01:55:45,TeamH,ERROR,Unhandled exception occurred
+2025-05-12 16:48:50,TeamH,WARNING,Response time above threshold
+2025-05-12 16:38:57,TeamH,WARNING,High memory usage detected
+2025-05-12 17:18:57,TeamH,INFO,User login succeeded
+2025-05-12 10:16:59,TeamH,INFO,Service is running
+2025-05-12 22:29:20,TeamH,INFO,Service is running
+2025-05-12 20:24:41,TeamH,ERROR,Authentication failed
+2025-05-13 00:34:39,TeamH,ERROR,Unhandled exception occurred
+2025-05-12 23:18:52,TeamH,WARNING,High memory usage detected
+2025-05-12 23:04:02,TeamH,INFO,Scheduled job completed
+2025-05-12 09:54:02,TeamH,ERROR,Timeout while calling external API
+2025-05-12 18:34:37,TeamH,ERROR,Service unavailable
+2025-05-13 04:27:54,TeamH,ERROR,Authentication failed
+2025-05-13 03:39:18,TeamH,INFO,Scheduled job completed
+2025-05-12 11:28:26,TeamH,ERROR,Unhandled exception occurred
+2025-05-13 01:25:26,TeamH,INFO,Scheduled job completed
+2025-05-12 10:13:45,TeamH,INFO,Heartbeat received
+2025-05-12 22:52:57,TeamH,WARNING,Retrying failed operation
+2025-05-12 10:45:14,TeamH,INFO,Application started successfully
+2025-05-13 07:10:48,TeamH,ERROR,Unhandled exception occurred
+2025-05-12 22:50:18,TeamH,ERROR,Authentication failed
+2025-05-12 23:38:53,TeamH,ERROR,Timeout while calling external API
+2025-05-12 08:18:52,TeamH,INFO,User login succeeded
+2025-05-12 10:19:32,TeamH,ERROR,Unhandled exception occurred
+2025-05-12 20:01:44,TeamH,INFO,Service is running
+2025-05-12 14:08:16,TeamH,ERROR,Unhandled exception occurred
+2025-05-12 19:57:20,TeamH,ERROR,Authentication failed
+2025-05-12 16:31:13,TeamH,ERROR,Service unavailable
+2025-05-12 21:58:27,TeamH,WARNING,Disk space nearing limit
+2025-05-12 08:45:23,TeamH,WARNING,High memory usage detected
+2025-05-13 05:14:09,TeamH,INFO,Heartbeat received
+2025-05-12 11:58:57,TeamH,INFO,Heartbeat received
+2025-05-13 06:32:53,TeamH,WARNING,Retrying failed operation
+2025-05-12 15:58:22,TeamH,WARNING,Response time above threshold
+2025-05-12 12:49:25,TeamH,INFO,User login succeeded
+2025-05-12 08:21:43,TeamH,WARNING,Disk space nearing limit
+2025-05-12 08:36:16,TeamH,INFO,Service is running
+2025-05-12 21:57:59,TeamH,INFO,User login succeeded
+2025-05-12 21:34:47,TeamH,ERROR,Service unavailable
+2025-05-12 14:01:39,TeamH,INFO,Scheduled job completed
+2025-05-12 12:23:39,TeamH,WARNING,Response time above threshold
+2025-05-12 18:37:22,TeamH,INFO,Service is running
+2025-05-12 20:07:53,TeamH,ERROR,Timeout while calling external API
+2025-05-12 18:39:48,TeamH,ERROR,Service unavailable
+2025-05-12 16:17:35,TeamH,WARNING,Retrying failed operation
+2025-05-13 06:29:41,TeamH,ERROR,Database connection failed
+2025-05-13 04:46:46,TeamH,ERROR,Database connection failed
+2025-05-13 04:46:03,TeamH,INFO,User login succeeded
+2025-05-13 07:27:10,TeamH,WARNING,High memory usage detected
+2025-05-13 03:08:59,TeamH,ERROR,Database connection failed
+2025-05-12 12:53:43,TeamH,INFO,Heartbeat received
+2025-05-12 09:05:16,TeamH,ERROR,Unhandled exception occurred
+2025-05-12 17:02:04,TeamH,ERROR,Service unavailable
+2025-05-13 03:06:16,TeamH,INFO,Heartbeat received
+2025-05-13 01:43:33,TeamH,ERROR,Service unavailable
+2025-05-12 15:34:56,TeamH,ERROR,Unhandled exception occurred
+2025-05-13 05:18:54,TeamH,INFO,Scheduled job completed
+2025-05-13 04:07:58,TeamH,INFO,Heartbeat received
+2025-05-13 05:15:58,TeamH,ERROR,Unhandled exception occurred
+2025-05-12 10:42:09,TeamH,WARNING,High memory usage detected
+2025-05-13 05:46:01,TeamH,INFO,Service is running
+2025-05-13 05:31:41,TeamH,WARNING,Response time above threshold
+2025-05-12 20:35:11,TeamH,WARNING,High memory usage detected
+2025-05-13 03:10:59,TeamH,ERROR,Unhandled exception occurred
+2025-05-12 15:58:02,TeamH,INFO,Scheduled job completed
+2025-05-12 22:29:54,TeamH,ERROR,Database connection failed
+2025-05-12 21:56:49,TeamH,WARNING,Configuration mismatch found
+2025-05-12 16:32:33,TeamH,ERROR,Authentication failed
+2025-05-12 08:51:03,TeamH,INFO,Application started successfully
+2025-05-13 05:37:44,TeamH,INFO,Service is running
+2025-05-13 02:07:28,TeamH,ERROR,Service unavailable
+2025-05-12 19:01:15,TeamH,WARNING,High memory usage detected
+2025-05-12 20:23:13,TeamH,WARNING,Response time above threshold
+2025-05-13 07:39:36,TeamH,WARNING,Disk space nearing limit
+2025-05-13 03:21:44,TeamH,WARNING,Disk space nearing limit
+2025-05-13 06:36:13,TeamH,INFO,Heartbeat received
+2025-05-12 16:34:30,TeamH,ERROR,Database connection failed
+2025-05-12 16:31:52,TeamH,WARNING,Disk space nearing limit
+2025-05-12 13:00:29,TeamH,WARNING,High memory usage detected
+2025-05-12 18:34:43,TeamH,INFO,User login succeeded
+2025-05-12 15:06:28,TeamH,INFO,Heartbeat received
+2025-05-12 18:49:53,TeamH,ERROR,Authentication failed
+2025-05-12 12:14:10,TeamH,WARNING,Response time above threshold
+2025-05-12 20:14:19,TeamH,INFO,User login succeeded
+2025-05-13 02:03:42,TeamH,INFO,Heartbeat received
+2025-05-12 19:08:02,TeamH,WARNING,High memory usage detected

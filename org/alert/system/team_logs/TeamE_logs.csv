@@ -1,0 +1,101 @@
+Timestamp,ApplicationTeam,LogLevel,Message
+2025-05-12 12:28:22,TeamE,WARNING,Retrying failed operation
+2025-05-12 19:11:29,TeamE,ERROR,Authentication failed
+2025-05-12 19:18:54,TeamE,INFO,Scheduled job completed
+2025-05-12 21:56:03,TeamE,ERROR,Service unavailable
+2025-05-13 03:52:30,TeamE,INFO,Application started successfully
+2025-05-12 12:09:00,TeamE,INFO,Heartbeat received
+2025-05-12 09:18:16,TeamE,INFO,User login succeeded
+2025-05-12 11:02:51,TeamE,ERROR,Database connection failed
+2025-05-13 01:50:51,TeamE,ERROR,Authentication failed
+2025-05-13 02:53:45,TeamE,ERROR,Service unavailable
+2025-05-12 08:14:19,TeamE,WARNING,High memory usage detected
+2025-05-13 07:06:44,TeamE,ERROR,Service unavailable
+2025-05-12 23:32:41,TeamE,ERROR,Unhandled exception occurred
+2025-05-12 20:51:08,TeamE,INFO,User login succeeded
+2025-05-12 14:41:04,TeamE,ERROR,Authentication failed
+2025-05-12 10:02:14,TeamE,WARNING,Response time above threshold
+2025-05-12 15:35:52,TeamE,WARNING,Retrying failed operation
+2025-05-12 18:55:52,TeamE,ERROR,Timeout while calling external API
+2025-05-13 01:30:36,TeamE,ERROR,Database connection failed
+2025-05-13 01:43:59,TeamE,ERROR,Service unavailable
+2025-05-13 07:07:58,TeamE,INFO,Scheduled job completed
+2025-05-13 03:25:24,TeamE,INFO,Service is running
+2025-05-12 23:32:27,TeamE,ERROR,Unhandled exception occurred
+2025-05-12 18:00:32,TeamE,ERROR,Unhandled exception occurred
+2025-05-12 11:04:36,TeamE,WARNING,Retrying failed operation
+2025-05-13 00:04:07,TeamE,ERROR,Timeout while calling external API
+2025-05-12 11:58:59,TeamE,WARNING,Response time above threshold
+2025-05-12 12:36:35,TeamE,WARNING,Configuration mismatch found
+2025-05-13 04:47:19,TeamE,ERROR,Database connection failed
+2025-05-12 16:49:04,TeamE,WARNING,Retrying failed operation
+2025-05-12 15:11:12,TeamE,INFO,Service is running
+2025-05-12 13:28:43,TeamE,INFO,Application started successfully
+2025-05-13 04:18:46,TeamE,ERROR,Database connection failed
+2025-05-13 01:25:27,TeamE,ERROR,Service unavailable
+2025-05-12 19:16:27,TeamE,ERROR,Database connection failed
+2025-05-13 00:20:58,TeamE,WARNING,High memory usage detected
+2025-05-12 12:07:01,TeamE,ERROR,Timeout while calling external API
+2025-05-13 02:34:23,TeamE,INFO,Heartbeat received
+2025-05-13 03:58:19,TeamE,INFO,Scheduled job completed
+2025-05-12 11:08:41,TeamE,WARNING,Configuration mismatch found
+2025-05-13 03:34:21,TeamE,INFO,Scheduled job completed
+2025-05-12 18:02:31,TeamE,ERROR,Timeout while calling external API
+2025-05-12 21:47:13,TeamE,WARNING,Response time above threshold
+2025-05-13 00:51:24,TeamE,ERROR,Authentication failed
+2025-05-12 17:33:35,TeamE,ERROR,Service unavailable
+2025-05-12 09:46:18,TeamE,INFO,Application started successfully
+2025-05-12 21:40:15,TeamE,INFO,Scheduled job completed
+2025-05-12 13:52:48,TeamE,WARNING,Disk space nearing limit
+2025-05-12 10:00:16,TeamE,ERROR,Service unavailable
+2025-05-12 15:21:25,TeamE,INFO,Scheduled job completed
+2025-05-12 23:34:53,TeamE,INFO,Heartbeat received
+2025-05-12 08:36:43,TeamE,INFO,Scheduled job completed
+2025-05-13 06:34:05,TeamE,ERROR,Service unavailable
+2025-05-12 21:11:48,TeamE,ERROR,Database connection failed
+2025-05-12 21:15:22,TeamE,WARNING,Response time above threshold
+2025-05-12 18:27:54,TeamE,ERROR,Database connection failed
+2025-05-12 13:00:19,TeamE,WARNING,Disk space nearing limit
+2025-05-12 09:27:55,TeamE,INFO,Scheduled job completed
+2025-05-13 01:25:23,TeamE,INFO,Service is running
+2025-05-12 10:38:15,TeamE,INFO,User login succeeded
+2025-05-12 21:09:03,TeamE,INFO,Heartbeat received
+2025-05-13 04:51:04,TeamE,WARNING,Disk space nearing limit
+2025-05-13 01:15:56,TeamE,ERROR,Database connection failed
+2025-05-12 21:32:58,TeamE,WARNING,Disk space nearing limit
+2025-05-13 02:31:04,TeamE,WARNING,High memory usage detected
+2025-05-12 12:02:58,TeamE,WARNING,Retrying failed operation
+2025-05-13 05:35:49,TeamE,WARNING,Disk space nearing limit
+2025-05-12 12:24:51,TeamE,ERROR,Timeout while calling external API
+2025-05-13 05:47:15,TeamE,INFO,Scheduled job completed
+2025-05-12 19:40:21,TeamE,INFO,Heartbeat received
+2025-05-13 02:00:26,TeamE,INFO,Scheduled job completed
+2025-05-12 22:01:22,TeamE,INFO,Service is running
+2025-05-12 17:29:09,TeamE,WARNING,High memory usage detected
+2025-05-12 11:12:18,TeamE,WARNING,Retrying failed operation
+2025-05-12 18:09:31,TeamE,INFO,User login succeeded
+2025-05-13 00:40:02,TeamE,ERROR,Service unavailable
+2025-05-12 18:50:52,TeamE,INFO,Service is running
+2025-05-12 15:22:39,TeamE,WARNING,High memory usage detected
+2025-05-12 18:33:41,TeamE,WARNING,High memory usage detected
+2025-05-12 13:39:02,TeamE,INFO,Application started successfully
+2025-05-13 01:11:58,TeamE,WARNING,Response time above threshold
+2025-05-13 03:51:54,TeamE,ERROR,Database connection failed
+2025-05-13 05:39:58,TeamE,INFO,Scheduled job completed
+2025-05-12 09:24:39,TeamE,INFO,Scheduled job completed
+2025-05-12 11:23:29,TeamE,ERROR,Service unavailable
+2025-05-13 05:23:54,TeamE,WARNING,Response time above threshold
+2025-05-13 00:55:14,TeamE,WARNING,Retrying failed operation
+2025-05-13 03:51:28,TeamE,ERROR,Service unavailable
+2025-05-12 16:49:35,TeamE,ERROR,Timeout while calling external API
+2025-05-12 18:41:00,TeamE,ERROR,Service unavailable
+2025-05-13 04:07:29,TeamE,ERROR,Service unavailable
+2025-05-12 13:07:56,TeamE,WARNING,Configuration mismatch found
+2025-05-13 06:00:29,TeamE,WARNING,Response time above threshold
+2025-05-13 07:25:31,TeamE,INFO,Heartbeat received
+2025-05-12 10:47:57,TeamE,WARNING,High memory usage detected
+2025-05-12 13:41:10,TeamE,ERROR,Authentication failed
+2025-05-13 03:12:08,TeamE,ERROR,Service unavailable
+2025-05-12 09:58:30,TeamE,WARNING,Response time above threshold
+2025-05-12 13:49:57,TeamE,ERROR,Authentication failed
+2025-05-12 17:50:30,TeamE,INFO,Heartbeat received

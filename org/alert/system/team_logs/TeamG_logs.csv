@@ -1,0 +1,99 @@
+Timestamp,ApplicationTeam,LogLevel,Message
+2025-05-12 14:32:44,TeamG,ERROR,Timeout while calling external API
+2025-05-12 22:54:54,TeamG,WARNING,High memory usage detected
+2025-05-13 03:18:58,TeamG,ERROR,Database connection failed
+2025-05-12 20:21:57,TeamG,ERROR,Service unavailable
+2025-05-12 08:36:32,TeamG,ERROR,Unhandled exception occurred
+2025-05-12 11:31:04,TeamG,INFO,Service is running
+2025-05-12 22:42:01,TeamG,WARNING,Configuration mismatch found
+2025-05-13 01:42:26,TeamG,INFO,Application started successfully
+2025-05-12 22:28:51,TeamG,ERROR,Unhandled exception occurred
+2025-05-12 20:27:54,TeamG,INFO,Scheduled job completed
+2025-05-13 05:27:15,TeamG,WARNING,Response time above threshold
+2025-05-12 12:43:41,TeamG,INFO,Application started successfully
+2025-05-12 18:24:20,TeamG,WARNING,Retrying failed operation
+2025-05-12 16:48:04,TeamG,INFO,Service is running
+2025-05-12 09:41:11,TeamG,WARNING,Configuration mismatch found
+2025-05-12 19:39:10,TeamG,ERROR,Authentication failed
+2025-05-12 14:12:33,TeamG,INFO,Application started successfully
+2025-05-13 05:45:07,TeamG,ERROR,Authentication failed
+2025-05-13 07:07:47,TeamG,WARNING,Disk space nearing limit
+2025-05-12 14:15:11,TeamG,INFO,Scheduled job completed
+2025-05-12 11:18:11,TeamG,INFO,User login succeeded
+2025-05-13 05:11:40,TeamG,INFO,Application started successfully
+2025-05-12 20:37:18,TeamG,INFO,Heartbeat received
+2025-05-13 04:55:32,TeamG,WARNING,High memory usage detected
+2025-05-12 08:08:21,TeamG,INFO,User login succeeded
+2025-05-13 03:28:20,TeamG,INFO,Scheduled job completed
+2025-05-13 04:32:55,TeamG,INFO,User login succeeded
+2025-05-12 16:56:58,TeamG,WARNING,Configuration mismatch found
+2025-05-12 10:04:55,TeamG,WARNING,Response time above threshold
+2025-05-12 18:02:18,TeamG,WARNING,Disk space nearing limit
+2025-05-12 17:58:09,TeamG,INFO,Scheduled job completed
+2025-05-12 14:03:58,TeamG,ERROR,Service unavailable
+2025-05-13 03:17:28,TeamG,INFO,Heartbeat received
+2025-05-12 14:34:04,TeamG,INFO,Application started successfully
+2025-05-13 01:35:39,TeamG,ERROR,Database connection failed
+2025-05-12 16:10:56,TeamG,INFO,Heartbeat received
+2025-05-13 07:36:11,TeamG,WARNING,Response time above threshold
+2025-05-12 11:12:41,TeamG,INFO,Heartbeat received
+2025-05-13 03:37:46,TeamG,ERROR,Database connection failed
+2025-05-13 02:54:54,TeamG,WARNING,Disk space nearing limit
+2025-05-13 01:27:12,TeamG,ERROR,Authentication failed
+2025-05-12 19:09:40,TeamG,INFO,Application started successfully
+2025-05-13 07:45:08,TeamG,INFO,Heartbeat received
+2025-05-13 07:52:29,TeamG,ERROR,Service unavailable
+2025-05-12 12:39:23,TeamG,INFO,Service is running
+2025-05-13 02:52:16,TeamG,WARNING,Configuration mismatch found
+2025-05-13 07:17:42,TeamG,ERROR,Timeout while calling external API
+2025-05-13 07:01:59,TeamG,INFO,Service is running
+2025-05-12 12:23:23,TeamG,INFO,User login succeeded
+2025-05-13 00:29:12,TeamG,INFO,Heartbeat received
+2025-05-12 11:09:24,TeamG,WARNING,High memory usage detected
+2025-05-12 16:16:11,TeamG,ERROR,Timeout while calling external API
+2025-05-12 14:18:20,TeamG,WARNING,High memory usage detected
+2025-05-12 10:56:43,TeamG,WARNING,Response time above threshold
+2025-05-12 08:37:41,TeamG,INFO,User login succeeded
+2025-05-13 02:04:56,TeamG,INFO,Application started successfully
+2025-05-12 21:35:54,TeamG,INFO,Application started successfully
+2025-05-13 05:54:44,TeamG,INFO,User login succeeded
+2025-05-12 09:01:45,TeamG,INFO,Service is running
+2025-05-13 01:08:52,TeamG,INFO,Service is running
+2025-05-13 05:56:17,TeamG,INFO,Scheduled job completed
+2025-05-12 10:16:07,TeamG,INFO,Application started successfully
+2025-05-12 18:07:36,TeamG,ERROR,Unhandled exception occurred
+2025-05-12 13:04:07,TeamG,WARNING,Configuration mismatch found
+2025-05-12 20:17:15,TeamG,ERROR,Authentication failed
+2025-05-13 07:48:29,TeamG,WARNING,Disk space nearing limit
+2025-05-12 08:58:50,TeamG,INFO,Heartbeat received
+2025-05-13 06:06:18,TeamG,INFO,User login succeeded
+2025-05-12 16:57:55,TeamG,INFO,Heartbeat received
+2025-05-12 19:11:09,TeamG,ERROR,Service unavailable
+2025-05-13 07:25:56,TeamG,ERROR,Authentication failed
+2025-05-12 10:13:10,TeamG,ERROR,Timeout while calling external API
+2025-05-12 23:35:44,TeamG,INFO,Heartbeat received
+2025-05-12 19:36:16,TeamG,INFO,Service is running
+2025-05-12 23:58:41,TeamG,WARNING,Configuration mismatch found
+2025-05-13 01:17:53,TeamG,INFO,Application started successfully
+2025-05-13 00:38:50,TeamG,WARNING,Retrying failed operation
+2025-05-12 20:36:21,TeamG,WARNING,Disk space nearing limit
+2025-05-12 22:14:21,TeamG,WARNING,High memory usage detected
+2025-05-12 19:03:49,TeamG,INFO,User login succeeded
+2025-05-12 19:24:30,TeamG,ERROR,Timeout while calling external API
+2025-05-12 18:01:32,TeamG,WARNING,Disk space nearing limit
+2025-05-12 23:48:55,TeamG,ERROR,Database connection failed
+2025-05-12 09:49:47,TeamG,WARNING,Configuration mismatch found
+2025-05-13 07:39:44,TeamG,INFO,User login succeeded
+2025-05-12 13:48:27,TeamG,ERROR,Database connection failed
+2025-05-12 12:58:33,TeamG,ERROR,Service unavailable
+2025-05-13 01:58:35,TeamG,INFO,Heartbeat received
+2025-05-13 06:44:22,TeamG,WARNING,High memory usage detected
+2025-05-12 13:19:29,TeamG,WARNING,Response time above threshold
+2025-05-12 21:38:56,TeamG,INFO,Service is running
+2025-05-12 15:01:21,TeamG,INFO,Heartbeat received
+2025-05-13 00:38:44,TeamG,WARNING,Response time above threshold
+2025-05-12 17:04:58,TeamG,WARNING,Response time above threshold
+2025-05-12 15:46:29,TeamG,INFO,Service is running
+2025-05-12 15:16:14,TeamG,INFO,Application started successfully
+2025-05-13 01:02:06,TeamG,INFO,Service is running
+2025-05-12 19:11:17,TeamG,WARNING,Disk space nearing limit

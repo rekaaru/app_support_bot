@@ -1,0 +1,101 @@
+Timestamp,ApplicationTeam,LogLevel,Message
+2025-05-12 17:13:24,TeamJ,INFO,User login succeeded
+2025-05-13 02:53:04,TeamJ,INFO,Service is running
+2025-05-12 12:49:28,TeamJ,ERROR,Database connection failed
+2025-05-12 23:50:38,TeamJ,WARNING,Configuration mismatch found
+2025-05-12 09:06:53,TeamJ,ERROR,Database connection failed
+2025-05-12 17:51:34,TeamJ,INFO,Scheduled job completed
+2025-05-12 13:28:19,TeamJ,INFO,Scheduled job completed
+2025-05-12 12:09:03,TeamJ,INFO,Scheduled job completed
+2025-05-12 19:53:37,TeamJ,WARNING,High memory usage detected
+2025-05-12 09:41:58,TeamJ,INFO,User login succeeded
+2025-05-13 06:36:53,TeamJ,WARNING,High memory usage detected
+2025-05-12 16:25:24,TeamJ,ERROR,Database connection failed
+2025-05-12 23:19:16,TeamJ,INFO,Heartbeat received
+2025-05-13 00:57:24,TeamJ,WARNING,Disk space nearing limit
+2025-05-13 07:25:00,TeamJ,WARNING,Configuration mismatch found
+2025-05-12 22:40:25,TeamJ,INFO,Scheduled job completed
+2025-05-12 16:44:01,TeamJ,WARNING,Retrying failed operation
+2025-05-12 12:27:41,TeamJ,INFO,Heartbeat received
+2025-05-12 17:04:38,TeamJ,WARNING,Configuration mismatch found
+2025-05-13 06:29:54,TeamJ,INFO,Scheduled job completed
+2025-05-12 23:28:23,TeamJ,ERROR,Database connection failed
+2025-05-12 12:32:50,TeamJ,INFO,Service is running
+2025-05-12 14:55:59,TeamJ,ERROR,Unhandled exception occurred
+2025-05-12 18:11:06,TeamJ,INFO,Service is running
+2025-05-12 09:02:10,TeamJ,INFO,Service is running
+2025-05-12 17:05:31,TeamJ,WARNING,Disk space nearing limit
+2025-05-12 20:59:12,TeamJ,ERROR,Database connection failed
+2025-05-13 02:06:52,TeamJ,WARNING,Configuration mismatch found
+2025-05-12 11:41:10,TeamJ,WARNING,Retrying failed operation
+2025-05-13 06:29:27,TeamJ,WARNING,Response time above threshold
+2025-05-12 20:11:09,TeamJ,ERROR,Timeout while calling external API
+2025-05-12 21:47:35,TeamJ,ERROR,Database connection failed
+2025-05-12 15:24:51,TeamJ,WARNING,High memory usage detected
+2025-05-12 20:15:47,TeamJ,WARNING,Disk space nearing limit
+2025-05-13 06:31:49,TeamJ,WARNING,Configuration mismatch found
+2025-05-12 10:31:54,TeamJ,ERROR,Database connection failed
+2025-05-13 03:51:13,TeamJ,INFO,Application started successfully
+2025-05-12 10:02:45,TeamJ,INFO,User login succeeded
+2025-05-13 05:43:19,TeamJ,ERROR,Service unavailable
+2025-05-12 23:47:57,TeamJ,WARNING,High memory usage detected
+2025-05-12 22:06:27,TeamJ,ERROR,Database connection failed
+2025-05-13 07:25:54,TeamJ,ERROR,Service unavailable
+2025-05-13 02:08:09,TeamJ,ERROR,Unhandled exception occurred
+2025-05-13 06:48:26,TeamJ,INFO,Service is running
+2025-05-12 15:36:09,TeamJ,ERROR,Service unavailable
+2025-05-13 00:00:46,TeamJ,INFO,Heartbeat received
+2025-05-12 19:08:24,TeamJ,WARNING,Response time above threshold
+2025-05-12 17:32:37,TeamJ,WARNING,Configuration mismatch found
+2025-05-12 17:14:24,TeamJ,WARNING,Disk space nearing limit
+2025-05-13 04:11:30,TeamJ,ERROR,Timeout while calling external API
+2025-05-13 06:21:22,TeamJ,WARNING,Retrying failed operation
+2025-05-12 09:42:27,TeamJ,INFO,Service is running
+2025-05-12 20:04:19,TeamJ,INFO,User login succeeded
+2025-05-12 10:32:22,TeamJ,INFO,Application started successfully
+2025-05-12 11:43:58,TeamJ,ERROR,Unhandled exception occurred
+2025-05-13 02:26:20,TeamJ,ERROR,Unhandled exception occurred
+2025-05-12 10:55:53,TeamJ,INFO,Heartbeat received
+2025-05-12 09:28:40,TeamJ,WARNING,Configuration mismatch found
+2025-05-12 21:00:25,TeamJ,WARNING,Configuration mismatch found
+2025-05-12 11:02:38,TeamJ,ERROR,Timeout while calling external API
+2025-05-13 00:03:52,TeamJ,INFO,Heartbeat received
+2025-05-13 04:33:40,TeamJ,WARNING,Response time above threshold
+2025-05-12 15:38:46,TeamJ,INFO,Scheduled job completed
+2025-05-12 11:51:09,TeamJ,INFO,Heartbeat received
+2025-05-12 21:28:54,TeamJ,WARNING,Configuration mismatch found
+2025-05-13 04:28:58,TeamJ,WARNING,Configuration mismatch found
+2025-05-12 14:57:46,TeamJ,INFO,User login succeeded
+2025-05-12 17:58:08,TeamJ,ERROR,Authentication failed
+2025-05-12 17:15:02,TeamJ,WARNING,High memory usage detected
+2025-05-13 06:11:02,TeamJ,WARNING,Response time above threshold
+2025-05-13 04:09:34,TeamJ,INFO,Service is running
+2025-05-13 01:22:06,TeamJ,WARNING,Response time above threshold
+2025-05-13 06:09:04,TeamJ,WARNING,Retrying failed operation
+2025-05-12 17:03:04,TeamJ,INFO,Heartbeat received
+2025-05-12 16:14:46,TeamJ,INFO,User login succeeded
+2025-05-12 19:29:42,TeamJ,WARNING,Disk space nearing limit
+2025-05-12 13:08:19,TeamJ,ERROR,Authentication failed
+2025-05-13 07:06:47,TeamJ,INFO,Heartbeat received
+2025-05-13 02:15:28,TeamJ,INFO,Scheduled job completed
+2025-05-12 08:21:46,TeamJ,WARNING,Retrying failed operation
+2025-05-12 22:46:11,TeamJ,INFO,User login succeeded
+2025-05-12 21:10:55,TeamJ,INFO,Service is running
+2025-05-12 18:24:22,TeamJ,ERROR,Database connection failed
+2025-05-12 11:08:06,TeamJ,INFO,User login succeeded
+2025-05-12 11:48:43,TeamJ,WARNING,Response time above threshold
+2025-05-13 04:16:28,TeamJ,WARNING,Configuration mismatch found
+2025-05-12 18:55:31,TeamJ,INFO,Service is running
+2025-05-12 09:31:04,TeamJ,WARNING,High memory usage detected
+2025-05-13 00:56:55,TeamJ,WARNING,Response time above threshold
+2025-05-12 13:34:52,TeamJ,ERROR,Unhandled exception occurred
+2025-05-13 05:34:06,TeamJ,INFO,User login succeeded
+2025-05-12 22:18:06,TeamJ,WARNING,High memory usage detected
+2025-05-12 12:30:24,TeamJ,WARNING,Disk space nearing limit
+2025-05-12 09:07:48,TeamJ,INFO,Heartbeat received
+2025-05-13 00:08:16,TeamJ,INFO,Application started successfully
+2025-05-12 15:02:28,TeamJ,ERROR,Unhandled exception occurred
+2025-05-12 21:39:22,TeamJ,WARNING,Retrying failed operation
+2025-05-12 22:46:25,TeamJ,ERROR,Timeout while calling external API
+2025-05-12 13:37:48,TeamJ,ERROR,Authentication failed
+2025-05-12 23:54:41,TeamJ,INFO,Scheduled job completed

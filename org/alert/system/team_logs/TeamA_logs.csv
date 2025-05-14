@@ -1,0 +1,100 @@
+Timestamp,ApplicationTeam,LogLevel,Message
+2025-05-12 10:37:53,TeamA,ERROR,Service unavailable
+2025-05-12 10:30:50,TeamA,WARNING,Response time above threshold
+2025-05-13 06:30:58,TeamA,WARNING,Retrying failed operation
+2025-05-13 01:15:41,TeamA,WARNING,High memory usage detected
+2025-05-12 14:40:49,TeamA,WARNING,Retrying failed operation
+2025-05-12 13:49:57,TeamA,ERROR,Timeout while calling external API
+2025-05-13 01:39:41,TeamA,ERROR,Unhandled exception occurred
+2025-05-12 22:38:33,TeamA,WARNING,Retrying failed operation
+2025-05-12 10:32:00,TeamA,WARNING,Disk space nearing limit
+2025-05-13 05:27:52,TeamA,WARNING,Retrying failed operation
+2025-05-12 16:20:44,TeamA,WARNING,Retrying failed operation
+2025-05-12 20:16:42,TeamA,ERROR,Database connection failed
+2025-05-12 20:36:36,TeamA,ERROR,Service unavailable
+2025-05-12 22:52:03,TeamA,ERROR,Database connection failed
+2025-05-13 03:52:39,TeamA,ERROR,Service unavailable
+2025-05-12 18:28:00,TeamA,ERROR,Database connection failed
+2025-05-12 11:39:38,TeamA,ERROR,Database connection failed
+2025-05-12 08:48:46,TeamA,INFO,Service is running
+2025-05-12 09:08:53,TeamA,ERROR,Service unavailable
+2025-05-12 11:37:16,TeamA,INFO,Heartbeat received
+2025-05-13 03:54:57,TeamA,WARNING,Response time above threshold
+2025-05-12 15:04:07,TeamA,WARNING,Retrying failed operation
+2025-05-13 02:01:51,TeamA,WARNING,Response time above threshold
+2025-05-12 11:03:37,TeamA,WARNING,Disk space nearing limit
+2025-05-12 15:55:39,TeamA,WARNING,Configuration mismatch found
+2025-05-13 01:34:32,TeamA,WARNING,Retrying failed operation
+2025-05-12 09:10:54,TeamA,ERROR,Service unavailable
+2025-05-12 19:26:00,TeamA,WARNING,High memory usage detected
+2025-05-12 20:21:15,TeamA,INFO,User login succeeded
+2025-05-12 13:30:45,TeamA,ERROR,Database connection failed
+2025-05-12 12:11:58,TeamA,INFO,User login succeeded
+2025-05-12 13:40:47,TeamA,INFO,Application started successfully
+2025-05-12 09:22:48,TeamA,WARNING,Retrying failed operation
+2025-05-12 15:53:41,TeamA,INFO,Scheduled job completed
+2025-05-12 14:16:59,TeamA,ERROR,Database connection failed
+2025-05-12 14:56:52,TeamA,INFO,User login succeeded
+2025-05-12 13:07:49,TeamA,INFO,Application started successfully
+2025-05-12 16:29:59,TeamA,INFO,User login succeeded
+2025-05-12 19:45:07,TeamA,ERROR,Authentication failed
+2025-05-13 02:18:27,TeamA,ERROR,Timeout while calling external API
+2025-05-12 14:18:43,TeamA,WARNING,High memory usage detected
+2025-05-12 18:20:29,TeamA,INFO,Scheduled job completed
+2025-05-12 23:57:31,TeamA,ERROR,Unhandled exception occurred
+2025-05-12 22:35:05,TeamA,ERROR,Service unavailable
+2025-05-13 05:37:14,TeamA,WARNING,Disk space nearing limit
+2025-05-13 06:36:02,TeamA,ERROR,Authentication failed
+2025-05-12 09:44:15,TeamA,INFO,Heartbeat received
+2025-05-13 04:28:01,TeamA,INFO,Scheduled job completed
+2025-05-13 00:44:01,TeamA,ERROR,Unhandled exception occurred
+2025-05-12 16:10:08,TeamA,ERROR,Authentication failed
+2025-05-12 12:11:54,TeamA,INFO,Heartbeat received
+2025-05-12 21:20:14,TeamA,INFO,Service is running
+2025-05-13 06:37:31,TeamA,ERROR,Service unavailable
+2025-05-13 03:02:25,TeamA,WARNING,Configuration mismatch found
+2025-05-12 18:18:43,TeamA,ERROR,Database connection failed
+2025-05-12 17:52:44,TeamA,ERROR,Service unavailable
+2025-05-13 05:00:16,TeamA,ERROR,Database connection failed
+2025-05-12 18:10:49,TeamA,WARNING,Response time above threshold
+2025-05-12 22:32:21,TeamA,ERROR,Service unavailable
+2025-05-12 20:41:41,TeamA,WARNING,Disk space nearing limit
+2025-05-12 10:45:03,TeamA,ERROR,Service unavailable
+2025-05-12 15:56:37,TeamA,ERROR,Service unavailable
+2025-05-12 13:14:54,TeamA,ERROR,Unhandled exception occurred
+2025-05-12 21:32:21,TeamA,WARNING,High memory usage detected
+2025-05-12 21:00:58,TeamA,WARNING,Retrying failed operation
+2025-05-12 08:53:15,TeamA,WARNING,Configuration mismatch found
+2025-05-13 07:43:06,TeamA,ERROR,Timeout while calling external API
+2025-05-12 12:55:55,TeamA,INFO,Service is running
+2025-05-13 02:47:35,TeamA,ERROR,Database connection failed
+2025-05-13 04:58:49,TeamA,ERROR,Database connection failed
+2025-05-12 22:32:07,TeamA,INFO,User login succeeded
+2025-05-12 18:31:11,TeamA,INFO,Service is running
+2025-05-13 06:30:09,TeamA,ERROR,Database connection failed
+2025-05-12 20:22:05,TeamA,WARNING,Disk space nearing limit
+2025-05-12 15:02:46,TeamA,INFO,Application started successfully
+2025-05-13 05:36:48,TeamA,ERROR,Unhandled exception occurred
+2025-05-12 08:07:22,TeamA,WARNING,Configuration mismatch found
+2025-05-13 02:18:52,TeamA,INFO,Service is running
+2025-05-12 13:29:15,TeamA,INFO,User login succeeded
+2025-05-13 07:02:24,TeamA,ERROR,Database connection failed
+2025-05-12 13:36:51,TeamA,INFO,Service is running
+2025-05-13 01:29:06,TeamA,ERROR,Timeout while calling external API
+2025-05-12 20:09:11,TeamA,ERROR,Timeout while calling external API
+2025-05-12 08:36:10,TeamA,INFO,User login succeeded
+2025-05-13 04:34:06,TeamA,WARNING,Retrying failed operation
+2025-05-12 21:58:13,TeamA,WARNING,Disk space nearing limit
+2025-05-13 03:46:03,TeamA,WARNING,Configuration mismatch found
+2025-05-13 01:58:53,TeamA,INFO,User login succeeded
+2025-05-12 16:31:33,TeamA,ERROR,Authentication failed
+2025-05-13 06:57:31,TeamA,INFO,Application started successfully
+2025-05-13 07:46:35,TeamA,WARNING,High memory usage detected
+2025-05-12 10:37:50,TeamA,INFO,Scheduled job completed
+2025-05-12 16:48:08,TeamA,ERROR,Timeout while calling external API
+2025-05-12 21:23:00,TeamA,WARNING,Configuration mismatch found
+2025-05-12 10:40:31,TeamA,INFO,Heartbeat received
+2025-05-13 02:55:57,TeamA,ERROR,Timeout while calling external API
+2025-05-12 15:59:34,TeamA,WARNING,Configuration mismatch found
+2025-05-12 09:26:08,TeamA,INFO,Application started successfully
+2025-05-13 03:17:25,TeamA,WARNING,Disk space nearing limit

@@ -1,0 +1,115 @@
+Timestamp,ApplicationTeam,LogLevel,Message
+2025-05-13 02:26:29,TeamC,INFO,User login succeeded
+2025-05-12 17:46:54,TeamC,ERROR,Authentication failed
+2025-05-13 07:28:35,TeamC,ERROR,Timeout while calling external API
+2025-05-12 14:42:55,TeamC,INFO,Service is running
+2025-05-13 01:49:04,TeamC,INFO,Scheduled job completed
+2025-05-12 08:59:47,TeamC,ERROR,Timeout while calling external API
+2025-05-12 21:39:58,TeamC,ERROR,Service unavailable
+2025-05-13 02:54:40,TeamC,WARNING,Retrying failed operation
+2025-05-12 18:16:14,TeamC,ERROR,Authentication failed
+2025-05-13 00:38:35,TeamC,ERROR,Timeout while calling external API
+2025-05-12 10:58:37,TeamC,INFO,User login succeeded
+2025-05-12 21:38:38,TeamC,ERROR,Unhandled exception occurred
+2025-05-13 03:38:58,TeamC,WARNING,Disk space nearing limit
+2025-05-12 09:35:28,TeamC,INFO,Service is running
+2025-05-12 15:00:56,TeamC,ERROR,Unhandled exception occurred
+2025-05-12 10:22:20,TeamC,WARNING,High memory usage detected
+2025-05-13 02:04:59,TeamC,ERROR,Database connection failed
+2025-05-12 18:43:24,TeamC,WARNING,Configuration mismatch found
+2025-05-12 13:29:59,TeamC,WARNING,High memory usage detected
+2025-05-12 11:38:22,TeamC,ERROR,Unhandled exception occurred
+2025-05-12 18:56:28,TeamC,WARNING,Response time above threshold
+2025-05-12 17:33:55,TeamC,WARNING,Response time above threshold
+2025-05-12 18:46:00,TeamC,WARNING,Retrying failed operation
+2025-05-12 17:13:05,TeamC,ERROR,Unhandled exception occurred
+2025-05-13 02:51:12,TeamC,ERROR,Timeout while calling external API
+2025-05-12 08:59:01,TeamC,INFO,Service is running
+2025-05-13 01:42:24,TeamC,WARNING,Disk space nearing limit
+2025-05-12 13:56:57,TeamC,WARNING,Configuration mismatch found
+2025-05-13 08:00:00,TeamC,ERROR,Authentication failed
+2025-05-12 20:20:05,TeamC,INFO,Service is running
+2025-05-13 06:07:49,TeamC,ERROR,Database connection failed
+2025-05-12 14:43:35,TeamC,WARNING,Response time above threshold
+2025-05-12 13:14:12,TeamC,INFO,Scheduled job completed
+2025-05-13 07:48:07,TeamC,ERROR,Authentication failed
+2025-05-12 16:40:49,TeamC,INFO,Heartbeat received
+2025-05-12 19:44:56,TeamC,ERROR,Unhandled exception occurred
+2025-05-13 01:54:09,TeamC,INFO,User login succeeded
+2025-05-12 10:19:58,TeamC,WARNING,High memory usage detected
+2025-05-13 04:18:50,TeamC,WARNING,High memory usage detected
+2025-05-12 21:08:08,TeamC,ERROR,Authentication failed
+2025-05-12 13:36:19,TeamC,WARNING,Response time above threshold
+2025-05-13 00:51:42,TeamC,INFO,Application started successfully
+2025-05-13 02:37:47,TeamC,WARNING,Retrying failed operation
+2025-05-12 16:14:39,TeamC,INFO,Heartbeat received
+2025-05-12 22:53:33,TeamC,ERROR,Authentication failed
+2025-05-12 15:38:38,TeamC,ERROR,Service unavailable
+2025-05-12 09:56:34,TeamC,ERROR,Timeout while calling external API
+2025-05-12 22:42:20,TeamC,ERROR,Service unavailable
+2025-05-13 07:26:10,TeamC,ERROR,Database connection failed
+2025-05-12 10:00:34,TeamC,INFO,User login succeeded
+2025-05-12 11:24:20,TeamC,INFO,Heartbeat received
+2025-05-12 17:25:39,TeamC,INFO,Scheduled job completed
+2025-05-12 19:22:31,TeamC,WARNING,Retrying failed operation
+2025-05-13 00:16:40,TeamC,WARNING,Response time above threshold
+2025-05-12 23:23:47,TeamC,WARNING,High memory usage detected
+2025-05-12 22:02:40,TeamC,WARNING,Configuration mismatch found
+2025-05-12 13:54:41,TeamC,INFO,Heartbeat received
+2025-05-12 20:55:24,TeamC,INFO,Application started successfully
+2025-05-12 20:26:54,TeamC,WARNING,Disk space nearing limit
+2025-05-13 06:57:39,TeamC,INFO,Service is running
+2025-05-12 23:49:53,TeamC,INFO,Scheduled job completed
+2025-05-12 14:29:09,TeamC,ERROR,Database connection failed
+2025-05-13 03:19:51,TeamC,WARNING,Retrying failed operation
+2025-05-12 10:27:26,TeamC,INFO,Heartbeat received
+2025-05-12 12:00:44,TeamC,WARNING,High memory usage detected
+2025-05-12 16:17:03,TeamC,INFO,User login succeeded
+2025-05-12 11:05:32,TeamC,INFO,Service is running
+2025-05-13 05:01:49,TeamC,ERROR,Timeout while calling external API
+2025-05-13 05:23:06,TeamC,WARNING,Configuration mismatch found
+2025-05-12 22:06:59,TeamC,ERROR,Service unavailable
+2025-05-12 13:51:46,TeamC,WARNING,Response time above threshold
+2025-05-13 03:29:55,TeamC,WARNING,High memory usage detected
+2025-05-12 12:33:23,TeamC,WARNING,High memory usage detected
+2025-05-13 00:31:47,TeamC,WARNING,Retrying failed operation
+2025-05-12 16:09:57,TeamC,INFO,Application started successfully
+2025-05-12 11:52:39,TeamC,INFO,User login succeeded
+2025-05-13 05:36:26,TeamC,INFO,User login succeeded
+2025-05-12 16:12:55,TeamC,INFO,Service is running
+2025-05-12 22:33:28,TeamC,INFO,Application started successfully
+2025-05-13 04:06:12,TeamC,ERROR,Timeout while calling external API
+2025-05-13 07:44:46,TeamC,INFO,Service is running
+2025-05-12 10:15:52,TeamC,ERROR,Authentication failed
+2025-05-13 01:50:33,TeamC,WARNING,Disk space nearing limit
+2025-05-12 17:46:05,TeamC,ERROR,Service unavailable
+2025-05-12 19:17:11,TeamC,ERROR,Service unavailable
+2025-05-12 15:22:55,TeamC,ERROR,Database connection failed
+2025-05-12 08:36:20,TeamC,ERROR,Database connection failed
+2025-05-12 22:04:18,TeamC,ERROR,Database connection failed
+2025-05-12 19:35:34,TeamC,INFO,Application started successfully
+2025-05-12 10:45:16,TeamC,WARNING,Disk space nearing limit
+2025-05-13 01:04:56,TeamC,WARNING,Configuration mismatch found
+2025-05-12 12:47:50,TeamC,ERROR,Timeout while calling external API
+2025-05-12 11:29:57,TeamC,WARNING,Disk space nearing limit
+2025-05-13 05:42:16,TeamC,WARNING,Response time above threshold
+2025-05-12 18:08:07,TeamC,INFO,Application started successfully
+2025-05-12 08:28:09,TeamC,WARNING,Configuration mismatch found
+2025-05-13 05:04:52,TeamC,WARNING,Disk space nearing limit
+2025-05-12 19:26:31,TeamC,INFO,Application started successfully
+2025-05-13 01:27:12,TeamC,INFO,Service is running
+2025-05-12 08:07:23,TeamC,ERROR,Service unavailable
+2025-05-12 09:11:50,TeamC,ERROR,Timeout while calling external API
+2025-05-12 22:36:55,TeamC,INFO,Service is running
+2025-05-12 20:32:45,TeamC,ERROR,Database connection failed
+2025-05-12 21:07:18,TeamC,ERROR,Database connection failed
+2025-05-13 06:54:35,TeamC,WARNING,Response time above threshold
+2025-05-12 10:14:16,TeamC,ERROR,Authentication failed
+2025-05-12 18:05:00,TeamC,WARNING,Retrying failed operation
+2025-05-12 18:55:30,TeamC,ERROR,Authentication failed
+2025-05-12 09:58:13,TeamC,INFO,Heartbeat received
+2025-05-12 13:39:35,TeamC,ERROR,Service unavailable
+2025-05-12 19:44:18,TeamC,ERROR,Timeout while calling external API
+2025-05-12 14:34:09,TeamC,WARNING,Retrying failed operation
+2025-05-12 23:50:47,TeamC,WARNING,Retrying failed operation
+2025-05-13 04:14:18,TeamC,ERROR,Timeout while calling external API
